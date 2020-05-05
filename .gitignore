@@ -1,5 +1,5 @@
 .venv
 .vscode
-#**/__pycache__
-#**/.DS_Store/
-#mysite/.DS_Store
+**/__pycache__
+**/.DS_Store/
+mysite/.DS_Store
